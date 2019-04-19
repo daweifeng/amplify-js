@@ -1,4 +1,5 @@
 import UserAgent from './UserAgent';
+import fetch from 'node-fetch';
 /** @class */
 export default class Client {
   /**
